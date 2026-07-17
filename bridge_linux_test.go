@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/iniwex5/netlink/nl"
+	"github.com/kedaya2025/netlink/nl"
 )
 
 func TestBridgeVlan(t *testing.T) {

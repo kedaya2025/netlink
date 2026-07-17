@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/iniwex5/netlink/nl"
+	"github.com/kedaya2025/netlink/nl"
 )
 
 func TestXfrmMonitorExpire(t *testing.T) {

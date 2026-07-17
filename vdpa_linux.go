@@ -8,7 +8,7 @@ import (
 
 	"golang.org/x/sys/unix"
 
-	"github.com/iniwex5/netlink/nl"
+	"github.com/kedaya2025/netlink/nl"
 )
 
 type vdpaDevID struct {

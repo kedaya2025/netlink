@@ -1,4 +1,4 @@
-module github.com/iniwex5/netlink
+module github.com/kedaya2025/netlink
 
 go 1.23
 

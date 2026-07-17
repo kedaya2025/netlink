@@ -15,7 +15,7 @@ package netlink
 import (
 	"fmt"
 
-	"github.com/iniwex5/netlink/nl"
+	"github.com/kedaya2025/netlink/nl"
 	"golang.org/x/sys/unix"
 )
 

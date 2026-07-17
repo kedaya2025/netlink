@@ -11,7 +11,7 @@ import (
 	"os"
 	"sort"
 
-	"github.com/iniwex5/netlink"
+	"github.com/kedaya2025/netlink"
 )
 
 type command struct {

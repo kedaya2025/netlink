@@ -16,7 +16,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/iniwex5/netlink/nl"
+	"github.com/kedaya2025/netlink/nl"
 )
 
 func TestDevLinkGetDeviceList(t *testing.T) {

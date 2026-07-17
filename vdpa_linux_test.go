@@ -5,7 +5,7 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/iniwex5/netlink/nl"
+	"github.com/kedaya2025/netlink/nl"
 )
 
 // tests in this package require following modules: vdpa, vdpa_sim, vdpa_sim_net

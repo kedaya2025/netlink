@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/iniwex5/netlink/nl"
+	"github.com/kedaya2025/netlink/nl"
 	"golang.org/x/sys/unix"
 )
 
